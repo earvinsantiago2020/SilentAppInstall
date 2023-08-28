@@ -14,15 +14,15 @@ The script is very malleable to include various different types of deployement a
 
 <h2> Demo </h2>
 
-<p align="center"> Developing the code in Powershell ISE <br/>
- 
+<p align="center">
+Developing the code in Powershell ISE
+<br/>
 ![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/7d93209a-4d90-4e81-a536-30cf7f4b952d)
 <br />
-
-<br /> Administrator Powershell Execution  <br/>
-
+<br /> Administrator Powershell Execution  
+<br/>
+ 
 ![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/c8da5bbd-8f79-4646-ae1c-d8254ceb8a19)
-
 <br />
 
 
